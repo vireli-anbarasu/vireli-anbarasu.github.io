@@ -3,10 +3,30 @@
     <title>Vireli&#x27;s Portfolio</title>
     <link href="https://vireli-anbarasu.github.io/feed.xml" rel="self" />
     <link href="https://vireli-anbarasu.github.io" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2025-03-19T13:44:39-04:00</updated>
     <author>
         <name>Vireli Anbarasu</name>
     </author>
     <id>https://vireli-anbarasu.github.io</id>
 
+    <entry>
+        <title>testing</title>
+        <author>
+            <name>Vireli Anbarasu</name>
+        </author>
+        <link href="https://vireli-anbarasu.github.io/testing.html"/>
+        <id>https://vireli-anbarasu.github.io/testing.html</id>
+
+        <updated>2025-03-19T13:44:39-04:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
