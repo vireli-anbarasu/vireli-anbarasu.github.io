@@ -10,18 +10,79 @@
     },
     "items": [
         {
+            "id": "https://vireli-anbarasu.github.io/knighthacks-hackathon.html",
+            "url": "https://vireli-anbarasu.github.io/knighthacks-hackathon.html",
+            "title": "KnightHacks Hackathon",
+            "summary": "Description As part of KnightHacks Spring 2022 Project program, created an electronic instrument that analyzes the melody inputted by the&hellip;",
+            "content_html": "<h3>Description</h3>\n<p><span style=\"font-weight: 400;\">As part of KnightHacks Spring 2022 Project program, created an electronic instrument that analyzes the melody inputted by the user and reports the mode and tempo of the melody to a display. Won Best Functionality Award.</span></p>\n<p><a href=\"https://youtu.be/lEI9b59gOwU?si=74QRZ1wtd3BiW1XZ\">Video Submission</a></p>\n<p><strong>Role:</strong> <span style=\"font-weight: 400;\">Mechanical/Electrical Engineer</span></p>\n<h3>Softwares/Skills</h3>\n<ul>\n<li>Arduino</li>\n<li>Laser printing</li>\n<li>Basic circuitry and prototyping</li>\n<li>C, Python</li>\n</ul>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vireli-anbarasu.github.io/media/posts/11/instrument-top-view.png\" alt=\"Top down view of instrument\" width=\"229\" height=\"222\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://vireli-anbarasu.github.io/media/posts/11/responsive/instrument-top-view-xs.png 384w ,https://vireli-anbarasu.github.io/media/posts/11/responsive/instrument-top-view-sm.png 600w ,https://vireli-anbarasu.github.io/media/posts/11/responsive/instrument-top-view-md.png 768w ,https://vireli-anbarasu.github.io/media/posts/11/responsive/instrument-top-view-lg.png 1200w ,https://vireli-anbarasu.github.io/media/posts/11/responsive/instrument-top-view-xl.png 1600w\"></figure>\n<p> </p>",
+            "image": "https://vireli-anbarasu.github.io/media/posts/11/instrument-side-view-2.jpg",
+            "author": {
+                "name": "Vireli Anbarasu"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-19T14:14:49-04:00",
+            "date_modified": "2025-03-19T15:56:04-04:00"
+        },
+        {
+            "id": "https://vireli-anbarasu.github.io/lspace-mission-concepts-academy.html",
+            "url": "https://vireli-anbarasu.github.io/lspace-mission-concepts-academy.html",
+            "title": "L&#x27;SPACE Mission Concepts Academy",
+            "summary": "Description Participated in program to plan and design mission to collect data about lunar polar regolith at Shackleton Crater. Presentation&hellip;",
+            "content_html": "<h3>Description</h3>\n<p><span style=\"font-weight: 400;\">Participated in program to plan and design mission to collect data about lunar polar regolith at Shackleton Crater.</span></p>\n<p><a href=\"https://docs.google.com/presentation/d/1Lde_5sxckIhV7nOKPFnXOonSln5yAfx3sskULb_ynlA/edit?usp=sharing\">Presentation</a></p>\n<p><strong>Role:</strong> CAD Team</p>\n<ul>\n<li>Did CAD of rocker bogie and mockups of instrumentation</li>\n<li>Conducted risk mitigation analysis and wrote up validation and tracibility documents</li>\n<li>Culminated in PDR</li>\n</ul>\n<h3>Softwares/Skills</h3>\n<ul>\n<li>Solidworks</li>\n<li>FMEA and risk assessment</li>\n<li>Ansys Mechanical (FEM)</li>\n</ul>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vireli-anbarasu.github.io/media/posts/10/rocker-bogie-3.jpg\" alt=\"Full rover assembly\" width=\"510\" height=\"349\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://vireli-anbarasu.github.io/media/posts/10/responsive/rocker-bogie-3-xs.jpg 384w ,https://vireli-anbarasu.github.io/media/posts/10/responsive/rocker-bogie-3-sm.jpg 600w ,https://vireli-anbarasu.github.io/media/posts/10/responsive/rocker-bogie-3-md.jpg 768w ,https://vireli-anbarasu.github.io/media/posts/10/responsive/rocker-bogie-3-lg.jpg 1200w ,https://vireli-anbarasu.github.io/media/posts/10/responsive/rocker-bogie-3-xl.jpg 1600w\"></figure>",
+            "image": "https://vireli-anbarasu.github.io/media/posts/10/rocker-bogie-4.jpg",
+            "author": {
+                "name": "Vireli Anbarasu"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-19T14:14:39-04:00",
+            "date_modified": "2025-03-19T15:59:27-04:00"
+        },
+        {
+            "id": "https://vireli-anbarasu.github.io/morphing-wings-artificial-muscles-research.html",
+            "url": "https://vireli-anbarasu.github.io/morphing-wings-artificial-muscles-research.html",
+            "title": "Morphing Wings Research",
+            "summary": "Description Research conducted on utilizing pneumatic artificial muscles to morph UAV wings. Culminated in honors undergraduate thesis. Presentation Florida Undergraduate&hellip;",
+            "content_html": "<h3>Description</h3>\n<p><span style=\"font-weight: 400;\">Research conducted on utilizing pneumatic artificial muscles to morph UAV wings. Culminated in honors undergraduate thesis.</span></p>\n<p><a href=\"https://1drv.ms/p/c/820e0f82e3bbcbef/EQltjFbWu-hPlZLWtlxJqagBuo8nH9XUtC7LAIoz2dHLQg?e=63ZfYJ\">Presentation</a></p>\n<ul>\n<li>Presented at Florida Undergraduate Research Conference and UCF's Student Scholar Symposium</li>\n</ul>\n<h3>Softwares/Skills</h3>\n<ul>\n<li>Solidworks</li>\n<li>P&amp;ID and engineering drawings</li>\n<li>DAQ (Labview, NI)</li>\n<li>Circuitry and prototyping</li>\n<li>3D printing and silicon rubber casting</li>\n<li>Ansys</li>\n<li>Data analysis (Matlab)</li>\n</ul>\n<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://vireli-anbarasu.github.io/media/posts/9/wing_muscle-configuration-3.png\" alt=\"Morphing plate with artificial muscles attached on either side\" width=\"368\" height=\"221\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://vireli-anbarasu.github.io/media/posts/9/responsive/wing_muscle-configuration-3-xs.png 384w ,https://vireli-anbarasu.github.io/media/posts/9/responsive/wing_muscle-configuration-3-sm.png 600w ,https://vireli-anbarasu.github.io/media/posts/9/responsive/wing_muscle-configuration-3-md.png 768w ,https://vireli-anbarasu.github.io/media/posts/9/responsive/wing_muscle-configuration-3-lg.png 1200w ,https://vireli-anbarasu.github.io/media/posts/9/responsive/wing_muscle-configuration-3-xl.png 1600w\"></figure>\n<p>Florida Undergraduate Research Conference 2025 Poster:</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vireli-anbarasu.github.io/media/posts/9/furc_poster.jpg\" alt=\"Poster for conference\" width=\"4608\" height=\"3456\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://vireli-anbarasu.github.io/media/posts/9/responsive/furc_poster-xs.jpg 384w ,https://vireli-anbarasu.github.io/media/posts/9/responsive/furc_poster-sm.jpg 600w ,https://vireli-anbarasu.github.io/media/posts/9/responsive/furc_poster-md.jpg 768w ,https://vireli-anbarasu.github.io/media/posts/9/responsive/furc_poster-lg.jpg 1200w ,https://vireli-anbarasu.github.io/media/posts/9/responsive/furc_poster-xl.jpg 1600w\"></figure>",
+            "image": "https://vireli-anbarasu.github.io/media/posts/9/control_board_angle.webp",
+            "author": {
+                "name": "Vireli Anbarasu"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-19T14:12:05-04:00",
+            "date_modified": "2025-03-19T15:59:15-04:00"
+        },
+        {
+            "id": "https://vireli-anbarasu.github.io/distributed-electrical-propulsion-senior-design.html",
+            "url": "https://vireli-anbarasu.github.io/distributed-electrical-propulsion-senior-design.html",
+            "title": "Distributed Electrical Propulsion UAV",
+            "summary": "Description A senior capstone project to design and manufacture a subscale fixed-wing UAV utilizing distributed electrical propulsion (DEP). Role: Team&hellip;",
+            "content_html": "<h3>Description</h3>\n<p>A senior capstone project to design and manufacture a subscale fixed-wing UAV utilizing distributed electrical propulsion (DEP).</p>\n<p><strong>Role:</strong> Team Co-Lead</p>\n<h3>Softwares/Skills</h3>\n<ul>\n<li>Ansys Fluent, StarCCM+, Ansys Mechanical, NASTRAN</li>\n<li>xfoil, xflr5</li>\n<li>Solidworks</li>\n<li>iNAV</li>\n<li>GanttProject, FMEA, other risk analyses techniques</li>\n<li>3D printing, laser printing</li>\n</ul>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vireli-anbarasu.github.io/media/posts/5/wing-sim.png\" alt=\"\" width=\"975\" height=\"484\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://vireli-anbarasu.github.io/media/posts/5/responsive/wing-sim-xs.png 384w ,https://vireli-anbarasu.github.io/media/posts/5/responsive/wing-sim-sm.png 600w ,https://vireli-anbarasu.github.io/media/posts/5/responsive/wing-sim-md.png 768w ,https://vireli-anbarasu.github.io/media/posts/5/responsive/wing-sim-lg.png 1200w ,https://vireli-anbarasu.github.io/media/posts/5/responsive/wing-sim-xl.png 1600w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vireli-anbarasu.github.io/media/posts/5/plane-xflr5.png\" alt=\"\" width=\"898\" height=\"437\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://vireli-anbarasu.github.io/media/posts/5/responsive/plane-xflr5-xs.png 384w ,https://vireli-anbarasu.github.io/media/posts/5/responsive/plane-xflr5-sm.png 600w ,https://vireli-anbarasu.github.io/media/posts/5/responsive/plane-xflr5-md.png 768w ,https://vireli-anbarasu.github.io/media/posts/5/responsive/plane-xflr5-lg.png 1200w ,https://vireli-anbarasu.github.io/media/posts/5/responsive/plane-xflr5-xl.png 1600w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vireli-anbarasu.github.io/media/posts/5/dep-plane-cad.png\" alt=\"CAD of plane\" width=\"821\" height=\"538\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://vireli-anbarasu.github.io/media/posts/5/responsive/dep-plane-cad-xs.png 384w ,https://vireli-anbarasu.github.io/media/posts/5/responsive/dep-plane-cad-sm.png 600w ,https://vireli-anbarasu.github.io/media/posts/5/responsive/dep-plane-cad-md.png 768w ,https://vireli-anbarasu.github.io/media/posts/5/responsive/dep-plane-cad-lg.png 1200w ,https://vireli-anbarasu.github.io/media/posts/5/responsive/dep-plane-cad-xl.png 1600w\"></figure>",
+            "image": "https://vireli-anbarasu.github.io/media/posts/5/dep-plane-cad-2.png",
+            "author": {
+                "name": "Vireli Anbarasu"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-19T14:05:42-04:00",
+            "date_modified": "2025-03-19T16:05:09-04:00"
+        },
+        {
             "id": "https://vireli-anbarasu.github.io/testing.html",
             "url": "https://vireli-anbarasu.github.io/testing.html",
-            "title": "testing",
-            "summary": "test",
-            "content_html": "<p>test</p>",
+            "title": "Solid Development",
+            "summary": "Description Project goal was to develop the first solid motor rocket in organization. Role: Testing Lead",
+            "content_html": "<h3>Description</h3>\n<p>Project goal was to develop the first solid motor rocket in organization.</p>\n<p><strong>Role:</strong> Testing Lead</p>\n<ul>\n<li>Managed testing team to design and manufacture a strand burner to conduct burn characterization on the experimental propellant mixes developed\n<ul>\n<li>Involved managing the subsystems (ignition systems, pressure systems, mechanical)</li>\n</ul>\n</li>\n<li>Intended to conduct burst testing on the pressure vessels</li>\n<li>Developed and validated safety and testing procedures</li>\n<li>Presented PDR to panel</li>\n</ul>\n<h3>Softwares/Skills</h3>\n<ul>\n<li>Simulation: Ansys Mechanical, Ansys Fluent, StarCCM+ CFD</li>\n<li>Other software: OpenMotor, Creo PTC, NASA CEA, Solidworks</li>\n<li>P&amp;ID (pressure system design), engineering drawing</li>\n<li>V&amp;V, FMEA</li>\n</ul>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vireli-anbarasu.github.io/media/posts/4/strand-burner-cad-4.png\" alt=\"\" width=\"757\" height=\"420\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://vireli-anbarasu.github.io/media/posts/4/responsive/strand-burner-cad-4-xs.png 384w ,https://vireli-anbarasu.github.io/media/posts/4/responsive/strand-burner-cad-4-sm.png 600w ,https://vireli-anbarasu.github.io/media/posts/4/responsive/strand-burner-cad-4-md.png 768w ,https://vireli-anbarasu.github.io/media/posts/4/responsive/strand-burner-cad-4-lg.png 1200w ,https://vireli-anbarasu.github.io/media/posts/4/responsive/strand-burner-cad-4-xl.png 1600w\"><figcaption>Strand burner CAD</figcaption></figure>\n<p> </p>",
+            "image": "https://vireli-anbarasu.github.io/media/posts/4/strand-burner-cad-3.png",
             "author": {
                 "name": "Vireli Anbarasu"
             },
             "tags": [
             ],
             "date_published": "2025-03-19T13:44:39-04:00",
-            "date_modified": "2025-03-19T13:44:39-04:00"
+            "date_modified": "2025-03-19T15:24:03-04:00"
         }
     ]
 }
